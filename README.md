@@ -26,3 +26,7 @@ module "virtual_network" {
 
  - `id` - The virtual NetworkConfiguration ID.
  - `name` - The name of the virtual network.
+
+# Resources
+
+- [Terraform Microsoft Azure Resource Manager - Virtual network](https://www.terraform.io/docs/providers/azurerm/r/virtual_network.html)
